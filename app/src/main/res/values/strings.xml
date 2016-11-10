@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="create_contact">Сохранить</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="warning">"Пожалуйста, заполните все поля"</string>
+
+</resources>
